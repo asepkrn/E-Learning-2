@@ -1,0 +1,10 @@
+Polimorfisme adalah suatu konsep yang menyatakan sesuatu yang sama dapat memiliki berbagai bentuk dan perilaku berbeda. 
+Istilah ini sendiri berasal dari bahasa Yunani, yang berarti “Mempunyai banyak bentuk”.
+Polimorfisme merupakan kemampuan objek-objek yang berbeda kelas namun terkait dalam pewarisan untuk merespon secara berbeda terhadap suatu pesan yang sama.
+Polimarfisme juga dapat dikatakan kemampuan sebuah objek untuk memutuskan method mana yang akan diterapkan padanya, tergantung letak objek tersebut pada jenjang pewarisan.
+Polymorphism sering dikaitkan dengan penggunaan lebih dari satu metoda dengan nama sama. Penggunaan metoda dengan nama sama dapat diterapkan dengan method overloading dan method overriding.
+Peran polymorphism sebenarnya tidak terbatas hanya pada hal tersebut.
+Ada keterkaitan antara polymorphism dan inheritance (turunan).
+Dalam konsep turunan, saat obyek dari subclass dikonstruksi, obyek dari superclass juga ikut dikonstruksi.
+Jadi setiap instance dari subclass adalah juga instance dari superclass. 
+Apabila Anda mendeklarasikan metoda dengan parameter dari tipe superclass, Anda diperbolehkan untuk memberi argumen berupa obyek subclass yang merupakan turunan dari superclass tersebut.
